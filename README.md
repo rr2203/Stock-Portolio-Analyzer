@@ -1,4 +1,3 @@
-# QMONEY FRONTEND - [A visual stock portfolio analyzer]
 <p align="center"> 
 <img width="200" height="200" src="https://raw.githubusercontent.com/axitchandora/Personal-Stuff/main/Images/qmoney.png">
 
