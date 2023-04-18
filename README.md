@@ -1,6 +1,8 @@
 <p align="center"> 
 <img width="200" height="200" src="https://raw.githubusercontent.com/axitchandora/Personal-Stuff/main/Images/qmoney.png">
 
+This project is a part of https://criodo.github.io/Crio-Accelerate-May-2020-haywire2207/.
+
 ## Overview
 *QMoney is a financial service company that offers world-class solutions in Portfolio Management, Investment Advisory, and Wealth Management. Founded in 2010 and headquartered in Bangalore, the company has gained the trust of 1 million+ clients to manage their finances and investment needs. In recent years, the company has grown to become one of the pioneers of online trading by building the first-of-its-kind platform to make trading efficient and effortless for its customers.*
 
