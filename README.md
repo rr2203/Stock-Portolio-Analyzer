@@ -18,9 +18,6 @@ This project is a part of https://criodo.github.io/Crio-Accelerate-May-2020-hayw
 
 <p align="center"> <b>QMoney Architecture</b> </p>
 
-![QMoney Portfolio Manager Interface](https://github.com/axitchandora/Personal-Stuff/blob/main/Images/ME_ME_QMONEY_MODULE_PROJECT_REPORT_image_1.png)
-<p align="center"> <b>QMoney Portfolio Manager Interface</b> </p>
-
 ## Fetch stock quotes and compute annualized stock returns
 
 ### Scope of Work
