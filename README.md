@@ -5,6 +5,7 @@ This project is a part of https://criodo.github.io/Crio-Accelerate-May-2020-hayw
 
 ## Overview
 *QMoney is a financial service company that offers world-class solutions in Portfolio Management, Investment Advisory, and Wealth Management. Founded in 2010 and headquartered in Bangalore, the company has gained the trust of 1 million+ clients to manage their finances and investment needs. In recent years, the company has grown to become one of the pioneers of online trading by building the first-of-its-kind platform to make trading efficient and effortless for its customers.*
+![image](https://github.com/rr2203/Stock-Portolio-Analyzer/assets/30201131/1366c867-5d45-4ed1-a175-428b5ce4d179)
 
 **Skills Used -** Java, REST API, Jackson, Interfaces, Code Refactoring, Gradle, Exception Handling, Multithreading.
 
